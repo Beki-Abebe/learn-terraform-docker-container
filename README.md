@@ -111,7 +111,7 @@ Provision the NGINX server container with apply. When Terraform asks you to conf
 $ terraform apply
 `
 
-Verify the existence of the NGINX container by visiting [localhost:8000] in your web browser or running docker    
+Verify the existence of the NGINX container by visiting [localhost:8000](https://localhost:8000) in your web browser or running docker    
 ps to see the container.  
 
 NGINX running in Docker via Terraform   
@@ -119,7 +119,7 @@ NGINX running in Docker via Terraform
 ![Screenshot_2025-03-28_16-26-18](https://github.com/user-attachments/assets/cd6f47bf-1ff3-4e9d-b32e-312bf7e7a586)
 
 
-To stop the container, run `terraform destroy`.   
+To stop the container, run     
 
 `
 $ terraform destroy
