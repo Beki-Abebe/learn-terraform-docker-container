@@ -125,4 +125,4 @@ To stop the container, run
 $ terraform destroy
 `
 
-You've now provisioned and destroyed an NGINX webserver with Terraform  
+You've now provisioned and destroyed an NGINX webserver with Terraform using Docker.
