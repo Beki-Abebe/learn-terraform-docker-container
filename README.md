@@ -34,7 +34,7 @@ Run a test container:
 
 `sudo docker run hello-world`  
 
-Step 5: Run Docker Without Sudo  
+**Step 5:** Run Docker Without Sudo  
 
 To allow running Docker without sudo:  
 
